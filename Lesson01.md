@@ -3,6 +3,7 @@
 **Video Link:** [AN OVERVIEW ON ARTIFICIAL INTELLIGENCE | LESSON - 1](https://www.youtube.com/watch?v=7aCnIk7qEIQ&list=PLRV0MUkz6INJJTd8nboQ8zSUtzKA7gOky&index=23)
 **Channel:** LEARN FROM EXPERT
 
+![ai-workflow diagram](images/les1-1.png)
 ---
 
 ## 🚀 1. The Transformative Power of AI
@@ -42,6 +43,12 @@ The initial section of the course establishes the fundamental differences in AI 
 * **Software Stack:** Highlighting the critical role of a suitable software stack (like NVIDIA's) in ensuring optimal performance, efficiency, and scalability [[03:07](https://www.youtube.com/watch?v=7aCnIk7qEIQ&t=187s)].
 
 ---
+
+![ai-vs-human diagram](images/les1-2.png)
+
+![ai-dnn diagram](images/les1-3.png)
+
+
 
 ## 🏢 4. Infrastructure and Operations (Sections 2 & 3 Preview)
 
