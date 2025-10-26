@@ -23,6 +23,9 @@ Generative AI and Traditional AI are **complementary** [[10:25](https://www.yout
 * **Generative AI:** **Produces new content** (e.g., writing a report, designing a molecule).
 * **Traditional AI:** Focuses on **detecting patterns**, making decisions, **classifying data**, and **detecting fraud**. (It is generally less compute-intensive).
 
+![ai-gen diagram](images/lesson4-1.png)
+
+
 ---
 
 ## 💡 2. Foundational Models and LLM Mechanics
@@ -41,6 +44,9 @@ Large Language Models (LLMs) utilize the specialized **Transformer** neural netw
 * **Tokens:** LLMs are built upon **tokens**—the smallest units of meaning (words, characters, subwords) [[06:39](https://www.youtube.com/watch?v=-78rArMPBhU&t=399s)].
 * **Self-Attention:** The Transformer uses a **self-attention mechanism** to assign a score (weight) to each token, helping the model recognize relationships and connections between concepts [[06:59](https://www.youtube.com/watch?v=-78rArMPBhU&t=419s)].
 * **Hardware Requirement:** Generative AI models require intensive computation. **GPUs** are ideal because their **parallel processing** excels at the matrix operations needed, significantly accelerating training and inference [[07:11](https://www.youtube.com/watch?v=-78rArMPBhU&t=431s)].
+
+![ai-llm diagram](images/less4-2.png)
+
 
 ---
 
