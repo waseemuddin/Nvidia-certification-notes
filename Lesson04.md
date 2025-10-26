@@ -73,6 +73,9 @@ Enterprises fall into one of three categories based on the level of customizatio
 | **Moderate Customization** | Tune an existing pre-trained model by adding **domain-specific data** and adjusting parameters (Fine-tuning) [[11:18](https://www.youtube.com/watch?v=-78rArMPBhU&t=678s)]. | Requires infrastructure investment and AI expertise. |
 | **Extensive Customization** | **Build a foundational model from scratch.** Requires massive amounts of data, compute, and deep expertise [[11:34](https://www.youtube.com/watch?v=-78rArMPBhU&t=694s)]. | Most costly; typically undertaken only by large tech companies. |
 
+![ai-llm diagram](images/less4-3.png)
+
+
 ---
 
 ## ⚙️ 4. Enterprise Deployment and NVIDIA's Platform
