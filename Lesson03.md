@@ -66,7 +66,7 @@ Deep Learning is fundamentally inspired by the structure of the human brain.
 
 Enterprises face significant technical and operational hurdles in deploying AI at scale [[18:37](http://www.youtube.com/watch?v=oVzI-wt691Y&t=1117)].
 
-![ai-challenge diagram](images/les3-4.png)
+![ai-challenge diagram](images/less3-4.png)
 
 
 | Challenge | Description | NVIDIA's Solution |
