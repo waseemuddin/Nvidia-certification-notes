@@ -27,8 +27,14 @@ The AI workflow is a systematic, iterative process for developing and deploying 
 | **4. Inference (Deployment)** [[05:10](http://www.youtube.com/watch?v=oVzI-wt691Y&t=310)] | Use the optimized model to make **real-time predictions** or generate output based on **new, unseen data** in a production environment. | **NVIDIA Triton Inference Server** (standardizes model deployment, handles load balancing) [[07:29](http://www.youtube.com/watch?v=oVzI-wt691Y&t=449)]. |
 
 ---
+![ai-workflow diagram](images/les1-1.png)
+
+
 
 ## 🧠 3. Deep Learning: Neurons and Training
+
+![ai-deeplearning diagram](images/les1-2.png)
+
 
 ### A. The Inspiration: Biological vs. Artificial Neuron
 
@@ -53,10 +59,15 @@ Deep Learning is fundamentally inspired by the structure of the human brain.
 * **Iteration:** This loop is repeated across the entire dataset (an **epoch**) multiple times until the network achieves high accuracy, effectively tuning the weights to recognize the correct patterns [[13:55](http://www.youtube.com/watch?v=oVzI-wt691Y&t=835)].
 
 ---
+![ai-dnn diagram](images/les1-3.png)
+
 
 ## 🤝 4. Challenges and Solutions in Production AI
 
 Enterprises face significant technical and operational hurdles in deploying AI at scale [[18:37](http://www.youtube.com/watch?v=oVzI-wt691Y&t=1117)].
+
+![ai-challenge diagram](images/les3-4.png)
+
 
 | Challenge | Description | NVIDIA's Solution |
 | :--- | :--- | :--- |
