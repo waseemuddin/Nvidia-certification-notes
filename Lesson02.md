@@ -29,6 +29,9 @@ The traditional drug discovery process is extremely challenging: $2 billion R&D 
 * **Digital Biology (Computational Methods):** AI models are trained on rich datasets to **identify new drug targets**, **predict efficacy and toxicity** of candidates, and optimize drug design. This significantly accelerates the drug discovery process [[07:08](http://www.youtube.com/watch?v=DgUKZjUhT8c&t=428)].
 * **Lab Automation:** Automated labs generate vast amounts of data. Advanced AI analytics are essential to process and analyze this data to quickly identify promising drug candidates [[07:27](http://www.youtube.com/watch?v=DgUKZjUhT8c&t=447)].
 
+![ai-health diagram](images/less2-1.png)
+
+
 ### B. Medical Devices and Clinical Care
 
 Medical devices are integrating **continuous sensing, advanced computing, and AI** to enhance patient care [[08:10](http://www.youtube.com/watch?v=DgUKZjUhT8c&t=490)].
@@ -40,6 +43,9 @@ Medical devices are integrating **continuous sensing, advanced computing, and AI
     * Confirm successful tumor removal during surgery.
 
 ---
+
+![ai-medical diagram](images/less2-1.png)
+
 
 ## 💰 3. AI in Financial Services
 
@@ -58,6 +64,9 @@ AI's ability to identify complex, hidden patterns in vast amounts of data at **u
         * Faster data retrieval and quality identification [[10:44](http://www.youtube.com/watch?v=DgUKZjUhT8c&t=644)].
 
 ---
+
+![ai-finance diagram](images/less2-2.png)
+
 
 ## 🚗 4. AI in Autonomous Vehicles & Manufacturing
 
